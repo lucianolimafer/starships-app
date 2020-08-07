@@ -7,7 +7,7 @@ Primeiro de tudo, você precisará descompactar o repositório ou cloná-lo daqu
 
 ```sh
 
-$ cd /path/to/projects/swapi-starships-app
+$ cd /path/to/projects/starships-app
 
 $ npm install # instale todas as dependenias
 
